@@ -1,15 +1,16 @@
 /*
-THEME NAME: Sandbox
-THEME URI: http://www.plaintxt.org/themes/sandbox/
-DESCRIPTION: Rich with powerful and dynamic semantic class selectors, Sandbox is a canvas for CSS artists
-VERSION: 1.6
-AUTHOR: <a href="http://andy.wordpress.com/">Andy Skelton</a> &amp; <a href="http://www.plaintxt.org/">Scott Allan Wallick</a>
-AUTHOR URI:
-TAGS: sandbox, microformats, hcard, hatom, xoxo, widgets, blank slate, starter theme, minimalist, developer
+THEME NAME: Linux Plumbers Conf Theme
+THEME URI: http://github.com/philips/lpcwp/tree/master
+DESCRIPTION: Based on Sanbox http://www.plaintxt.org/themes/sandbox/
+VERSION: 1.0
+AUTHOR: <a href="http://ifup.org/">Brandon Philips</a>
+AUTHOR URI: http://ifup.org
+TAGS: sandbox, microformats, hcard, hatom, xoxo, widgets, blank slate, starter theme, minimalist, developer, linux plumbers conf, lpc
 */
 
-/* Two-column with sidebar on left from the /examples/ folder  */
-@import url('examples/2c-l.css');
+/* Get out of the wordpress theme dir */
+@import url('../../../style/style.css');
+
 
 /* Just some example content */
 div.skip-link {
@@ -19,8 +20,7 @@ top:1em;
 }
 
 div#menu {
-background:#EEE;
-height:1.5em;
+height:3.5em;
 margin:1em 0;
 width:100%;
 }
@@ -141,6 +141,7 @@ div.gallery dl.gallery-columns-5 {
 width:19%;
 }
 
+/*
 div#nav-above {
 margin-bottom:1em;
 }
@@ -202,6 +203,7 @@ div#menu ul li,div.gallery dl,div.navigation div.nav-previous {
 float:left;
 }
 
+*/
 div#header,div#footer {
 text-align:center;
 }

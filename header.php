@@ -21,5 +21,15 @@
 
 	<div id="access">
 		<div class="skip-link"><a href="#content" title="<?php _e( 'Skip to content', 'sandbox' ) ?>"><?php _e( 'Skip to content', 'sandbox' ) ?></a></div>
-		<?php sandbox_globalnav() ?>
+
+<div id="menu">
+	<ul>
+		<li><a href="<?php bloginfo('home') ?>/" />Blog</a></li>
+		<li class="page_item page-item-2"><a href="<?php bloginfo('url') ?>/about/" title="Attend">Attend</a></li>
+		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/program/" title="Program">Program</a></li>
+		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/contact/" title="Contact">Contact</a></li>
+		<li class="page_item page-item-95"><a href="<?php bloginfo('url') ?>/faqs" title="FAQs">FAQs</a></li>
+	</ul>
+</div>
+
 	</div><!-- #access -->

@@ -5,9 +5,9 @@
 
 <?php endif; // end primary sidebar widgets  ?>
 			<li id="social-links">
-				<h3><?php _e( 'Follow LPC09', 'sandbox' ) ?></h3>
+				<h3><?php _e( 'Stay Connected', 'sandbox' ) ?></h3>
 				<ul>
-					<li><a href="<?php bloginfo('rss2_url') ?>" title="<?php printf( __( '%s latest posts', 'sandbox' ), wp_specialchars( get_bloginfo('name'), 1 ) ) ?>" rel="alternate" type="application/rss+xml"><?php _e( 'RSS Blog Feed', 'sandbox' ) ?></a></li>
+					<li><a href="<?php bloginfo('rss2_url') ?>" title="<?php printf( __( '%s latest posts', 'sandbox' ), wp_specialchars( get_bloginfo('name'), 1 ) ) ?>" rel="alternate" type="application/rss+xml"><?php _e( 'Blog Feed', 'sandbox' ) ?></a></li>
 					<li><a href="https://twitter.com/linuxplumbers">Twitter</a></li>
 					<li><a href="http://lists.osuosl.org/mailman/listinfo/announce">Announce list</a></li>
 				</ul>

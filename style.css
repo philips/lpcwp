@@ -141,7 +141,6 @@ div.gallery dl.gallery-columns-5 {
 width:19%;
 }
 
-/*
 div#nav-above {
 margin-bottom:1em;
 }
@@ -203,7 +202,6 @@ div#menu ul li,div.gallery dl,div.navigation div.nav-previous {
 float:left;
 }
 
-*/
 div#header,div#footer {
 text-align:center;
 }
@@ -215,4 +213,8 @@ width:50%;
 div.gallery *,div.sidebar div,div.sidebar h3,div.sidebar ul {
 margin:0;
 padding:0;
+}
+
+.hentry {
+	margin-bottom:2em;
 }

@@ -214,6 +214,9 @@ div.gallery *,div.sidebar div,div.sidebar h3,div.sidebar ul {
 margin:0;
 padding:0;
 }
+div.entry-date {
+	padding-bottom: 0.8em;
+}
 
 .hentry {
 	margin-bottom:2em;

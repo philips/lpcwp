@@ -4,14 +4,36 @@
 <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar(1) ) : // begin primary sidebar widgets ?>
 
 <?php endif; // end primary sidebar widgets  ?>
+			<li id="attend-links">
+				<h3><?php _e( 'Register and Submit', 'sandbox' ) ?></h3>
+				<ul>
+				<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/register/" title="Register">Register to attend</a></li>
+				<li class="page_item page-item-2"><a href="<?php bloginfo('url') ?>/submit/" title="Submit">Submit a proposal</a></li>
+				</ul>
+			</li>
+
+
 			<li id="social-links">
 				<h3><?php _e( 'Stay Connected', 'sandbox' ) ?></h3>
 				<ul>
 					<li><a href="<?php bloginfo('rss2_url') ?>" title="<?php printf( __( '%s latest posts', 'sandbox' ), wp_specialchars( get_bloginfo('name'), 1 ) ) ?>" rel="alternate" type="application/rss+xml"><?php _e( 'Blog Feed', 'sandbox' ) ?></a></li>
 					<li><a href="https://twitter.com/linuxplumbers">Twitter</a></li>
+					<li><a href="https://identi.ca/linuxplumbers">identi.ca</a></li>
 					<li><a href="http://lists.osuosl.org/mailman/listinfo/announce">Announce list</a></li>
+					<li><a href="http://planet.linuxplumbersconf.org/">Planet LPC</a></li>
 				</ul>
 			</li>
+
+			<li>
+				<h3><?php _e( 'Sponsors', 'sandbox' ) ?></h3>
+				<ul class="sponsor-links">
+					<li><a href="http://ibm.com"><img src="/2009/style/IBMtm.png" /></a></li>
+					<li><a href="http://google.com"><img src="/2009/style/google_logo.gif" /></a></li>
+					<li><a href="http://hp.com"><img src="/2009/style/hp_logo.gif" /></a></li>
+					<li><a href="http://intel.com"><img src="/2009/style/intel_logo.png" /></a></li>
+				</ul>
+			</li>
+
 
 		</ul>
 	</div><!-- #primary .sidebar -->

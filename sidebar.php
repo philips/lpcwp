@@ -32,6 +32,12 @@
 					<li><a href="http://hp.com"><img src="/2009/style/hp_logo.gif" /></a></li>
 					<li><a href="http://intel.com"><img src="/2009/style/intel_logo.png" /></a></li>
 				</ul>
+				<h3><?php _e( 'Media Sponsors', 'sandbox' ) ?></h3>
+				<ul class="sponsor-links">
+
+					<li><a href="http://lwn.net"><img src="/2009/style/lwnlogo.png" /></a></li>
+					<li><a href="http://linuxjournel.com"><img src="/2009/style/ljcolor.png" /></a></li>
+				</ul>
 			</li>
 
 

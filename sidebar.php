@@ -8,7 +8,7 @@
 				<h3><?php _e( 'Register and Submit', 'sandbox' ) ?></h3>
 				<ul>
 				<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/register/" title="Register">Register to attend</a></li>
-				<li class="page_item page-item-2"><a href="<?php bloginfo('url') ?>/submit/" title="Submit">Submit a proposal</a></li>
+				<li class="page_item page-item-2"><a href="<?php bloginfo('url') ?>/submit/" title="Proposal List">Proposal list</a></li>
 				</ul>
 			</li>
 

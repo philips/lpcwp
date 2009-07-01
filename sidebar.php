@@ -37,6 +37,7 @@
 
 					<li><a href="http://lwn.net"><img src="/2009/style/lwnlogo.png" /></a></li>
 					<li><a href="http://linuxjournel.com"><img src="/2009/style/ljcolor.png" /></a></li>
+					<li><a href="http://www.linuxpromagazine.com/"><img src="/2009/style/LinuxPro-logo.png" /></a></li>
 				</ul>
 			</li>
 

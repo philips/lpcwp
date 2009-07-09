@@ -31,6 +31,8 @@
 					<li><a href="http://google.com"><img src="/2009/style/google_logo.gif" /></a></li>
 					<li><a href="http://hp.com"><img src="/2009/style/hp_logo.gif" /></a></li>
 					<li><a href="http://intel.com"><img src="/2009/style/intel_logo.png" /></a></li>
+					<li><a href="http://novell.com"><img src="/2009/style/novelllogo.png" /></a></li>
+					<li><a href="http://canonical.com"><img src="/2009/style/canonical.png" /></a></li>
 				</ul>
 				<h3><?php _e( 'Media Sponsors', 'sandbox' ) ?></h3>
 				<ul class="sponsor-links">

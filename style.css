@@ -134,7 +134,7 @@ input#author,input#email,input#url,div.navigation div {
 width:50%;
 }
 
-div.gallery *,div.sidebar div,div.sidebar h3,div.sidebar ul {
+div.gallery *,div.sidebar div {
 margin:0;
 padding:0;
 }

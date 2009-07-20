@@ -33,6 +33,7 @@
 					<li><a href="http://google.com"><img src="/2009/style/google_logo.gif" /></a></li>
 					<li><a href="http://novell.com"><img src="/2009/style/novelllogo.png" /></a></li>
 					<li><a href="http://canonical.com"><img src="/2009/style/canonical.png" /></a></li>
+					<li><a href="http://www.windriver.com/"><img src="/2009/style/windriver-logo.png" /></a></li>
 				</ul>
 				<h3><?php _e( 'Media Sponsors', 'sandbox' ) ?></h3>
 				<ul class="sponsor-links">

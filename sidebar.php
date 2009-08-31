@@ -30,8 +30,8 @@
 					<li><a href="http://intel.com"><img src="/2009/style/intel_logo.png" /></a></li>
 					<li><a href="http://qualcomm.com"><img src="/2009/style/Qualcomm.png" /></a></li>
 					<li><a href="http://ibm.com"><img src="/2009/style/IBMtm.png" /></a></li>
-					<li><a href="http://hp.com"><img src="/2009/style/hp_logo.gif" /></a></li>
 					<li><a href="http://google.com"><img src="/2009/style/google_logo.gif" /></a></li>
+					<li><a href="http://hp.com"><img src="/2009/style/hp_logo.gif" /></a></li>
 					<li><a href="http://novell.com"><img src="/2009/style/novelllogo.png" /></a></li>
 					<li><a href="http://canonical.com"><img src="/2009/style/canonical.png" /></a></li>
 					<li><a href="http://www.windriver.com/"><img src="/2009/style/windriver-logo.png" /></a></li>

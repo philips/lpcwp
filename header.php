@@ -26,6 +26,7 @@
 	<ul>
 		<li><a href="<?php bloginfo('home') ?>/" />Blog</a></li>
 		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/attend/" title="Attend">Attend</a></li>
+		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/schedule/" title="Schedule">Schedule</a></li>
 		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/program/" title="Program">Program</a></li>
 		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/contact/" title="Contact">Contact</a></li>
 		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/faqs" title="FAQs">FAQs</a></li>
